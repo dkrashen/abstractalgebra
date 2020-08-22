@@ -16,8 +16,8 @@ baseurl: "/abstractalgebra"
 # url: "localhost:4000"
 url: "http://dkrashen.org"
 
-analytics_id: ""
-analytics: "false"
+analytics_id: "UA-74503807-5"
+analytics: "true"
 
 # Build settings
 markdown: kramdown
