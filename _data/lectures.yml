@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   description: "The concept of a group in some context."
   filename: "lecture1.pdf"
+- title: "Lecture 2"
+  description: "Subgroups, particular of the additive integers."
+  filename: "lecture2.pdf"
