@@ -46,3 +46,6 @@
 - title: "Lecture 16"
   description: "The long march to Sylow, part 1: Cauchy's Theorem."
   filename: "lecture16.pdf"
+- title: "Lecture 17"
+  description: "The <del>long march</del> <b>quick sprint</b> to Sylow, part 2: Almost all the Sylow Theorems."
+  filename: "lecture17.pdf"
