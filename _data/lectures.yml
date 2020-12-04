@@ -73,3 +73,6 @@
 - title: "Lecture 25"
   description: "Matrix groups and finite groups of Lie type."
   filename: "lecture25.pdf"
+- title: "Lecture 26"
+  description: "Matrix groups, Lie algebras, and quasi-legal algebraic differentiation."
+  filename: "lecture26.pdf"
